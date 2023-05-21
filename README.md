@@ -1,5 +1,5 @@
 <h2 align="center">안녕하세요</h2>
-<p>고양이 사진을 보내주세요.<p>
+<p align="center">고양이 사진을 보내주세요.<p>
 
 ## Social. 
 [<img alt="Instargram" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" height="100px" />](https://www.instagram.com/m_in04_/) 
